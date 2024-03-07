@@ -1,0 +1,10 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    letter-spacing: .03em;
+    color: var(--primari-text-color);
+    background: var(--primari-white-color);
+}
+
+h1, h2, h3, h4, h5, h6, p, span, a {
+    line-height: 1.6 }
